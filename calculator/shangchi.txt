@@ -1,0 +1,1 @@
+Debugging tips: 1. Use print statements. 2. Check variables. 3. Isolate the problem. 4. Use a debugger.
